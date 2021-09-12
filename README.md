@@ -1,6 +1,6 @@
 # マルチコメントビューア用プラグイン MCV_beatorajaPlugin
 
-beatoraja に 受け取ったコメントを横流しするだけ
+beatoraja に [マルチコメントビューア](https://ryu-s.github.io/app/multicommentviewer)で受け取ったコメントを横流しするだけ
 
 ## インストール
 1. 最新の[Release](https://github.com/SackMagiclight/MCV_beatorajaPlugin/releases/)から `MCV_beatorajaPlugin.dll` を ダウンロードして、プラグインフォルダに入れる  
